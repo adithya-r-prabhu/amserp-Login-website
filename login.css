@@ -168,4 +168,7 @@ body {
         width: 100%; /* Ensure buttons span the full width if desired */
         display: inline;
     }
+    #copyright-footer{
+        position: relative;
+    }
 }
